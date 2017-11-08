@@ -1,1 +1,1 @@
-# EulerChallenge
+# Just random challenges
