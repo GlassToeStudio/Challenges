@@ -1,6 +1,0 @@
-pygame
-PIL
-matplotlib
-imageio
-pyscreenshot
-MoviePy
