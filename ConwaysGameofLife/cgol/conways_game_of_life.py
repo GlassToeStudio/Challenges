@@ -46,10 +46,10 @@ GAMECONFIG = {
     'living_cells' : ' o',      # Character placed for a live cell in console output
     'chance_to_spawn' : 0.15,    # Use for random population, the change that is a cell is alive
     'board_size' : 50,          # By default, the board is square nxn
-    'iterations' : 1000,         # How many times to run the simulation
+    'iterations' : 10,         # How many times to run the simulation
     'edge_buffer' : 0.1,        # Percentage of ege rows and columns omit from population
     'wrap_around' : True,       # Wrap around indices or stop at egdes
-    'take_screenshot' : False,  # If True, a screenshot the cmd output/animated gif is created
+    'take_screenshot' : True,  # If True, a screenshot the cmd output/animated gif is created
     'make_image' : True,        # If True, write values to image/animated gif is created
     'resize_image' : True,      # If True, output png images will be resized.
     'load_from_file' : False,   # Choose to load from a file or make a random population
