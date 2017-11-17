@@ -8,6 +8,7 @@ namespace GTS
         ///<summary>    Smoothing will increase the radius of the effected area.</summary>
         [Header("Adjust for increased effects")]
         [Range(0f, 1f)]public float smoothing = 1f;
+
         ///<summary>    The more passes, the more times the algorithm is ran on the render texture.</summary>
         [Range(1, 10)]public int passes = 1;
 
