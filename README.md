@@ -12,4 +12,4 @@
 [Game of Life Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 [Python](https://www.python.org/)
-<img src="https://github.com/GlassToeStudio/Challenges/blob/master/\ConwaysGameofLife\cgol\images\gif\cgol1510495419.1948497.gif" width=100%>
+<img src="https://github.com/GlassToeStudio/Challenges/blob/master/\ConwaysGameofLife\cgol\images\gif\cgol1510543983.1112673.gif" width=100%>
